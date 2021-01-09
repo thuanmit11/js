@@ -46,16 +46,18 @@ label {
 .user-info{
 display:inline-block;
 width:25%;
-margin-left:3%;
+margin-left:1%;
+font-size:130%;
+height:150%;
+padding-top:5%;
+padding-bottom: 3%;;
 }
 .load-data{
     display:inline-block;
     width:50%;
     margin-top:2%;
-    line-height: 380%;
     padding-left: 8%;
-    border-radius: 5px;
-    
+    font-size:100%;
 }
 .header{
     background-color: black;
